@@ -1,0 +1,7 @@
+setup.py
+XwTest/__init__.py
+XwTest/my1stTest.py
+XwTestProject.egg-info/PKG-INFO
+XwTestProject.egg-info/SOURCES.txt
+XwTestProject.egg-info/dependency_links.txt
+XwTestProject.egg-info/top_level.txt
